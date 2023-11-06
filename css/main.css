@@ -1,0 +1,614 @@
+
+body {
+    position: absolute;
+    width: 1100px;
+    height: 3200px;
+    font-family: 'Road Rage';
+    background: rgba(232, 225, 225, 0.9);
+    }
+    
+    /* Ameer Nazzal */
+    main header .logo {
+    position: absolute;
+    width: 340px;
+    height: 52px;
+    left: 135px;
+    top: 56px;
+    
+    font-family: 'Road Rage';
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 82px;
+    letter-spacing: 0.016em;
+    
+    color: #000000;
+    }
+
+    .menu {
+    position: absolute;
+    width: 497px;
+    height: 83px;
+    left: 800px;
+    top: 51px;
+    font-family: 'Road Rage';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+    }
+
+    /* Road to a Successful Technology Career */
+
+    h1 {
+    position: absolute;
+    width: 970px;
+    height: 85px;
+    left: 150px;
+    top: 150px;
+    text-align: center;
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0.016em;
+
+    color: #000000;
+    }
+    .programming-languages h2 {
+    position: absolute;
+    width: 543px;
+    height: 83px;
+    left: 350px;
+    top: 950px;
+    text-align: center;
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+    
+    color: #000000;
+    }
+ .hero-text img {
+    position: relative;
+    width: 600px;
+    height: 580px;
+    left: 30px;
+    top: 400px;
+    margin-left: auto;    
+    margin-right: auto;
+}
+/* Want to look at my Tech History?! */
+    h3 {
+    position: absolute;
+    width: 680px;
+    height: 83px;
+    left: 600px;
+    top: 426px;
+    text-align: center;
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+    }
+    .hero-text p{
+    position: absolute;
+    width: 780px;
+    height: 83px;
+    left: 660px;
+    top: 650px;
+    
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+    }
+
+
+/* Rectangle 21 */
+    .hero-text a {
+    position: absolute;
+    width: 500px;
+    height: 175px;
+    left: 700px;
+    top: 770px;
+
+    background: #808000;
+    border-radius: 200px;
+
+
+/* ahn8 */
+
+    position: absolute;
+    width: 190px;
+    height: 83px;
+    left: 850px;
+    text-align: center;
+    top: 816px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+    }
+
+    /* Python */
+    .image-container .python-item {
+    position: absolute;
+    width: 137px;
+    height: 83px;
+    left: 100px;
+    top: 1085px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+    }
+
+
+/* HTML */
+.image-container .html-item {
+    position: absolute;
+    width: 110px;
+    height: 83px;
+    left: 300px;
+    top: 1085px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+}
+
+
+/* CSS */
+.image-container .css-item {
+position: absolute;
+width: 79px;
+height: 83px;
+left: 500px;
+top: 1085px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Java */
+.image-container .java-item {
+position: absolute;
+width: 88px;
+height: 88px;
+left: 700px;
+top: 1081px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 88px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Git */
+.image-container .git-item{
+position: absolute;
+width: 63px;
+height: 88px;
+left: 970px;
+top: 1081px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 88px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Github */
+.image-container .github-item {
+position: absolute;
+width: 139px;
+height: 88px;
+left: 1100px;
+top: 1081px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 88px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+.hero-section-task img {
+    position: relative;
+    width: 600px;
+    height: 580px;
+    left: 30px;
+    top: 600px;
+    margin-left: auto;    
+    margin-right: auto;
+}
+
+.hero-content h2 {
+    position: absolute;
+    width: 525px;
+    height: 176px;
+    left: 700px;
+    top: 1200px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 88px;
+    letter-spacing: 0.016em;
+
+    color: #000000;
+}
+.hero-section-task p {
+    position: absolute;
+    width: 732px;
+    height: 83px;
+    left: 650px;
+    top: 1400px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+}
+.hero-content a {
+position: absolute;
+width: 372px;
+height: 175px;
+left: 996px;
+top: 1748px;
+
+background: #808000;
+border-radius: 200px;
+
+
+/* Archetype Test */
+
+position: absolute;
+width: 300px;
+height: 83px;
+left: 800px;
+top: 1600px;
+text-align: center;
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+.resume img {
+    position: absolute;
+width: 600px;
+height: 463px;
+left: 30px;
+top: 1900px;
+
+}
+
+.resume-content h2 {
+    position: absolute;
+    width: 234px;
+    height: 88px;
+    left: 850px;
+    top: 1900px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 88px;
+    /* identical to box height */
+
+    color: #000000;
+
+}
+
+.resume-content p {
+    position: absolute;
+    width: 700px;
+    height: 88px;
+    left: 675px;
+    top: 2000px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 88px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.resume-content a {
+position: absolute;
+width: 372px;
+height: 175px;
+left: 960px;
+top: 2431px;
+
+background: #808000;
+border-radius: 200px;
+
+
+/* Resume */
+
+position: absolute;
+width: 157px;
+height: 83px;
+left: 875px;
+top: 2200px;
+text-align: center;
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+.twitter img {
+    position: absolute;
+    width: 600px;
+    height: 463px;
+    left: 30px;
+    top: 2460px;
+
+}
+
+.twitter-content h2 {
+    position: absolute;
+    width: 140px;
+    height: 83px;
+    left: 900px;
+    top: 2450px;
+
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+
+
+}
+
+.twitter p {
+    
+position: absolute;
+width: 657px;
+height: 83px;
+left: 650px;
+top: 2550px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+
+
+}
+
+.twitter a {
+    position: absolute;
+width: 600px;
+height: 175px;
+left: 972px;
+top: 3031px;
+
+background: #808000;
+border-radius: 200px;
+
+
+/* Twitter */
+
+position: absolute;
+width: 140px;
+height: 83px;
+left: 900px;
+top: 2750px;
+text-align: center;
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+
+}
+
+.footer .footing-item {
+position: absolute;
+width: 147px;
+height: 83px;
+left: 75px;
+top: 3000px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Github */
+.footer .github-item {
+position: absolute;
+width: 131px;
+height: 83px;
+left: 350px;
+top: 3000px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Archetype Test */
+.footer .archetype-item {
+position: absolute;
+width: 300px;
+height: 83px;
+left: 575px;
+top: 3000px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Resume */
+.footer .resume-item {
+position: absolute;
+width: 158px;
+height: 83px;
+left: 875px;
+top: 3000px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+
+/* Twitter */
+.footer .twitter-item {
+position: absolute;
+width: 140px;
+height: 83px;
+left: 1100px;
+top: 3000px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 82px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: #000000;
+}
+
+.footer p {
+    position: absolute;
+    width: 1096px;
+    height: 83px;
+    left: 175px;
+    top: 3050px;
+    
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 82px;
+    /* identical to box height */
+    letter-spacing: 0.016em;
+
+    color: #000000;
+
+}

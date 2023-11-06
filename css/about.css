@@ -1,0 +1,66 @@
+
+body {
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1250px;
+height: 5865px;
+
+background: rgba(255, 228, 196, 0.9);
+border: 1px solid #000000;
+backdrop-filter: blur(2px);
+}
+
+/* About Me */
+.content h1  {
+position: absolute;
+width: 1258px;
+height: 550px;
+left: 500px;
+bottom: 5500px;
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 75px;
+line-height: 550px;
+/* identical to box height */
+letter-spacing: 0.016em;
+
+color: black;
+}
+.content p {
+    position: absolute;
+    width: 600px;
+    height: 550px;
+    left: 600px;
+    bottom: 5100px;
+    font-family: 'Road Rage';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 50px;
+    letter-spacing: 0.016em;
+
+    color: #000000;
+
+}
+
+.content img {
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    bottom: 5140px;
+
+    
+}
+
+.a img {
+    position: absolute;
+    width: 850px;
+    height: 500px;
+    bottom: 4600px;
+    left: 200px;
+    
+}
